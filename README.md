@@ -1,6 +1,8 @@
 # is_anime_or_real
 Distinguish between anime images and real images.
 
+# You can download the model I've already trained on Hugging Face：https://huggingface.co/jedzqg/is_anime_or_real
+
 This is based on the ResNet18 model and is used to determine whether an image is anime or real-life photography. The accuracy has limitations.
 To use the model, you can refer to the following code:
         
